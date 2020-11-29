@@ -8,3 +8,8 @@
 * Code will be written in Java on VSCode (I have previous experience with eclipse but I want to try something else)
 * .gitignore file added, and README modified
 * Simple `HelloWorld` class added
+
+## Chapter 2&3
+
+* Relocated .java files in src folder
+* `BasicSocket` class, created to test the behaviour of `ServerSocket` has been added
